@@ -44,3 +44,6 @@ We made some dull discoveries, how thrilling.
 
 #Figures
 This is where the figures go in a draft manuscript.
+
+#Acknowledgements
+We would like to thanks the EU funding body for their support.
