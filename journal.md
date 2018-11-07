@@ -3,6 +3,7 @@ Model measurment comparison of biomass burning aerosol over East Africa
 
 
 # Author
+Sophie Jones!!
 John Smith, University of Nothere
 Tom Lawrence, University of Manchester
 
@@ -50,3 +51,4 @@ This is where the figures go in a draft manuscript.
 
 #Acknowledgements
 We would like to thanks the EU funding body for their support.
+
