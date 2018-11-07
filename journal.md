@@ -15,7 +15,13 @@ Also, using an aerosol mass spec (Allen et al 2000.)
 John has made some simulations of particle formation using his box model.
 It reproduces the growth in size distributions observed and suggests that coagulation is the dominant method of growth. Some more writing about simulations.
 
+
+#Methodology
+We used AMS (Allan et al 1999) to measure particle mass and chemical composition.
+
+
 # Results
+Total number of widgets per wodget
 
 1 - 15
 2 - 5
@@ -33,8 +39,6 @@ It reproduces the growth in size distributions observed and suggests that coagul
 5 - -1
 
 
-#Methodology
-We used AMS (Allan et al 1999) to measure particle mass and chemical composition.
-
 #Conclusion
 We made some dull discoveries, how thrilling.
+
