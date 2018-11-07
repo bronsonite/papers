@@ -42,3 +42,5 @@ Total number of widgets per wodget
 #Conclusion
 We made some dull discoveries, how thrilling.
 
+#Figures
+This is where the figures go in a draft manuscript.
