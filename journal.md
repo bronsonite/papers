@@ -3,8 +3,9 @@ Model measurment comparison of biomass burning aerosol over East Africa
 
 
 # Author
-Tom Lawrence
-John Smith
+John Smith, University of AnotherPlace
+Tom Lawrence, University of Manchester
+
 
 #Abstract
 We write this last becuase it's difficult to do. The aim is to summarise the results so that lazy people only have something short to read and reference.
