@@ -6,6 +6,9 @@ Model measurment comparison of biomass burning aerosol over East Africa
 Tom Lawrence
 John Smith
 
+#Abstract
+We write this last becuase it's difficult to do. The aim is to summarise the results so that lazy people only have something short to read and reference.
+
 # Introduction
 The lazy brown fox jumped over the quick dog (Haywood et al 1999). A further sentence about something that is a thing. Some more writing about said thing. Maybe a little bit more.
 Starting to get a bit bored now, but will power through nevertheless. Andisestablishmentarianism is a long word.
