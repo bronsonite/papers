@@ -1,8 +1,9 @@
 # Title
-Biomass burning aerosol over West Africa
+Simulations of biomass burning aerosol over East Africa
 
 # Author
 Tom Lawrence
+John Smith
 
 # Introduction
 The lazy brown fox jumped over the quick dog (Haywood et al 1999). A further sentence about something that is a thing. Some more writing about said thing. Maybe a little bit more.
