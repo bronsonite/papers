@@ -22,3 +22,13 @@ It reproduces the growth in size distributions observed and suggests that coagul
 3 - 9
 4 - 10
 5 - 50
+
+
+# External validation
+
+1 - 1
+2 - 2
+3 - 3
+4 - 40
+5 - -1
+
