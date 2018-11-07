@@ -13,7 +13,7 @@ Also, using an aerosol mass spec (Allen et al 2000.)
 
 # Simulations
 John has made some simulations of particle formation using his box model.
-It reproduces the growth in size distributions observed and suggests that coagulation is the dominant method of growth.
+It reproduces the growth in size distributions observed and suggests that coagulation is the dominant method of growth. Some more writing about simulations.
 
 # Results
 
@@ -21,4 +21,4 @@ It reproduces the growth in size distributions observed and suggests that coagul
 2 - 5
 3 - 9
 4 - 10
-5 - 95
+5 - 50
