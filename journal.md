@@ -1,5 +1,5 @@
 # Title
-Model measurment comparison of biomass burning aerosol over East Africa
+Model measurment comparison of biomass burning aerosol over East & West Africa
 
 
 # Author
