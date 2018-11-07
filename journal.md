@@ -5,6 +5,7 @@ Model measurment comparison of biomass burning aerosol over East Africa
 # Author
 Tom Lawrence, University of Manchester
 John Smith, University of Nothere
+Sophie Jones, University of Manchester
 
 #Abstract
 We write this last becuase it's difficult to do. The aim is to summarise the results so that lazy people only have something short to read and reference.
@@ -32,6 +33,10 @@ Total number of widgets per wodget
 4 - 10
 5 - 50
 
+# Further results
+1 - 20
+2 - 50
+3 - 150
 
 # External validation
 
